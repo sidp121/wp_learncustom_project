@@ -1,0 +1,49 @@
+/*
+Theme Name: Learncustom
+Description: Blog, Shop
+Author: Siddharth
+Version:1.0
+Author URI: digitalsmarketing.blogsport.com
+
+*/
+
+.error{
+	text-align: center;
+	padding: 20px;
+	font-size:60px;
+}
+.current-menu-item a{
+ 	background-color: red !important;
+ 	color: white !important;
+ 	padding: 10px;
+ }
+.testimonial {
+ list-style: none !important;
+}
+.clearfix {
+	width: 1200px !important;
+}
+.wpforms-field-large {
+	height: 24px !important;
+    width: 590px !important;
+    margin: 0 0 18px !important;
+    padding: 0 4px !important;
+}
+.wpforms-submit
+{
+    color: #fff;
+    display: inline-block;
+    font: 12px/28px Arial, Helvetica, sans-serif;
+    height: 28px;
+    width: 97px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 1px 1px rgb(0 0 0 / 30%);
+    text-transform: uppercase;
+    height: 38px;
+    line-height: 38px;
+    width: 212px;
+    background-color: #6a6a6a; 
+    cursor: pointer;
+    border: none;
+}
